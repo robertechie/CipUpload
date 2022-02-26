@@ -1,0 +1,5 @@
+{
+    "dataworkspace.excludedProjects": [
+        "src/app/user/auth-modal/my/my.sqlproj"
+    ]
+}
