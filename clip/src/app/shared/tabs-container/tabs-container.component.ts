@@ -26,5 +26,6 @@ export class TabsContainerComponent implements AfterContentInit {
       x.active = false;
     });
     tab.active = true;
+    return false;
   }
 }
